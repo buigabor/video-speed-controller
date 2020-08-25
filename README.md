@@ -9,4 +9,4 @@ Day 28 of Javascript30 by WesBos. Made a video player site, all the basic functi
 HTML5, CSS, Vanilla JS
 
 # Website
-https://buigabor.github.io/Click-and-Drag/
+https://buigabor.github.io/video-speed-controller/
